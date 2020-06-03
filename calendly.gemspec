@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ['Brian Rusel Davis']
   spec.email         = ['brian@nurdymuny.com']
 
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/rickbenavidez/calendly-ruby"
   spec.summary       = 'Calendly APi webhook and invites'
   spec.description   = 'connect ruby to Calendly APi'
 
